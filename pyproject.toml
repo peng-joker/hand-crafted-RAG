@@ -28,10 +28,7 @@ dependencies=[
 # 显式指定顶层模块
 [tool.setuptools]
 py-modules = [
-    "embed",
-    "chunkChonkie",
-    "chroma_visualizer",
-    "chunk",
+    "embed-qwen",
     "chunkLangChain"
 ]
 
